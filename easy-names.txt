@@ -28,12 +28,9 @@ cool
 copy
 cuba
 data
-deal
 demo
-diet
 door
 drum
-duet
 east
 easy
 echo
@@ -49,7 +46,6 @@ flex
 food
 ford
 frog
-fuel
 fuji
 game
 gate
@@ -62,7 +58,6 @@ gray
 grid
 guru
 gyro
-hair
 halt
 hand
 hope
@@ -120,7 +115,6 @@ next
 nice
 nina
 nova
-null
 ohio
 olga
 open
@@ -169,7 +163,6 @@ tuna
 twin
 type
 unit
-user
 vega
 visa
 viva
@@ -182,14 +175,11 @@ yoyo
 zero
 zoom
 actor
-adios
 agent
 alamo
 alarm
 album
 alert
-alias
-alibi
 alice
 alien
 aloha
@@ -203,7 +193,6 @@ anvil
 apple
 april
 arena
-ariel
 armor
 aroma
 arrow
@@ -257,7 +246,6 @@ chant
 chaos
 charm
 chess
-chief
 child
 china
 chris
@@ -288,8 +276,6 @@ dance
 david
 delta
 derby
-diana
-diego
 disco
 dolby
 donor
@@ -319,7 +305,6 @@ fiber
 fidel
 field
 final
-fiona
 first
 flame
 flash
@@ -347,7 +332,6 @@ graph
 greek
 green
 group
-guest
 guide
 happy
 heart
@@ -399,7 +383,6 @@ limbo
 limit
 linda
 liter
-llama
 lobby
 local
 logic
@@ -997,15 +980,12 @@ nobody
 normal
 norway
 number
-oberon
 object
 office
 oliver
 olivia
 option
 orange
-orchid
-orient
 origin
 oxford
 oxygen
@@ -1030,7 +1010,6 @@ permit
 person
 phrase
 picnic
-pierre
 pirate
 planet
 plasma
@@ -1042,7 +1021,6 @@ poncho
 portal
 potato
 powder
-prague
 prefer
 prefix
 presto
@@ -1132,7 +1110,6 @@ stella
 stereo
 street
 strong
-stuart
 studio
 subway
 sulfur
@@ -1194,7 +1171,6 @@ wizard
 wonder
 yankee
 yellow
-yogurt
 zigzag
 zipper
 zodiac
@@ -1211,17 +1187,13 @@ alcohol
 alfonso
 algebra
 almanac
-amadeus
 ambient
 america
-ammonia
 anagram
 analyze
 anatomy
 android
-antenna
 antonio
-apropos
 archive
 arizona
 arsenal
@@ -1248,7 +1220,6 @@ bicycle
 biology
 biscuit
 bonanza
-bonjour
 botanic
 brigade
 british

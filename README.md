@@ -8,7 +8,7 @@ This repo contains lists of names that would be useful when naming a project
 
 |File|Description|
 |---|---|
-|`server-names.txt`|A list of names between 3 and 7 characters that are easy to say and spell|
+|`easy-names.txt`|A list of names between 3 and 7 characters that are easy to say and spell|
 |`stars.txt`|The 50 brightest stars|
 |`names.txt`|A list of human names|
 
