@@ -11,6 +11,7 @@ This repo contains lists of names that would be useful when naming a project
 |`easy-names.txt`|A list of names between 3 and 7 characters that are easy to say and spell|
 |`stars.txt`|The 50 brightest stars|
 |`names.txt`|A list of human names|
+|`brutethink.txt`|Words used in the [Brutethink technique](https://remembereverything.org/brutethink-creativity-technique/). This list was tuned for the workplace, so some words have been removed|
 
 ## Some Other Helpful Links
 
