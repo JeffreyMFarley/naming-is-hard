@@ -28,6 +28,7 @@ cool
 copy
 cuba
 data
+deer
 demo
 door
 drum
@@ -42,6 +43,7 @@ film
 fire
 fish
 flag
+flat
 flex
 food
 ford
@@ -58,6 +60,7 @@ gray
 grid
 guru
 gyro
+half
 halt
 hand
 hope
@@ -75,14 +78,17 @@ jeep
 joel
 john
 join
+joke
 judo
 july
 jump
 june
 karl
+kill
 kilo
 king
 kiwi
+lack
 lady
 lake
 lava
@@ -114,6 +120,7 @@ news
 next
 nice
 nina
+note
 nova
 ohio
 olga
@@ -129,12 +136,14 @@ poem
 pogo
 polo
 pony
+poor
 puma
 pump
 quiz
 race
 raja
 rent
+ripe
 risk
 road
 rose
@@ -149,8 +158,10 @@ size
 slow
 snow
 soda
+soil
 solo
 song
+soul
 star
 stop
 swim
@@ -216,6 +227,7 @@ billy
 bingo
 bison
 blast
+bleed
 bless
 blitz
 block
@@ -400,6 +412,7 @@ major
 malta
 mambo
 mango
+march
 marco
 margo
 match
@@ -499,6 +512,7 @@ radar
 radio
 ralph
 rapid
+razor
 rebel
 relax
 reply
@@ -528,6 +542,7 @@ scale
 scoop
 scuba
 shake
+shape
 sharp
 shave
 shelf
@@ -572,6 +587,7 @@ stone
 store
 storm
 story
+strap
 style
 sugar
 super
@@ -586,6 +602,7 @@ telex
 tempo
 texas
 think
+thumb
 tibet
 tiger
 toast
@@ -624,6 +641,7 @@ vodka
 voice
 watch
 water
+weave
 wheel
 world
 young
@@ -856,6 +874,7 @@ goblin
 gopher
 gordon
 gossip
+grease
 grille
 ground
 guitar
@@ -934,6 +953,7 @@ martin
 marvin
 master
 matrix
+matter
 mayday
 medusa
 melody
