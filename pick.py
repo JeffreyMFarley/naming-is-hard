@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import argparse
 import random
 
 
@@ -15,6 +16,42 @@ def load(fileName):
         for line in f:
             yield line.strip()
 
+
+#------------------------------------------------------------------------------
+# Main
+#------------------------------------------------------------------------------
+
+table = {
+    'brute': 'brutethink.txt',
+    'easy': 'easy-names.txt',
+    'name': 'names.txt',
+    'star': 'stars'
+}
+
+
+def main():
+    parser = buildArgParser()
+    args = parser.parse_args()
+
+    fileName = table[args.source]
+
+    words = [l for l in load(to_absolute(fileName))]
+
+    for i in xrange(0, args.count):
+        print(random.choice(words))
+
+
+def buildArgParser():
+    p = argparse.ArgumentParser(description='randomly choose words')
+    p.add_argument('source', choices=sorted(table.keys()),
+                   nargs='?',
+                   default='easy',
+                   help='which source to use')
+    p.add_argument('count', type=int,
+                   nargs='?',
+                   default='1',
+                   help='number of words to choose')
+    return p
+
 if __name__ == '__main__':
-    words = [l for l in load(to_absolute('brutethink.txt'))]
-    print(random.choice(words))
+    main()
