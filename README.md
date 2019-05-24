@@ -12,6 +12,9 @@ This repo contains lists of names that would be useful when naming a project
 |`stars.txt`|The 50 brightest stars|
 |`names.txt`|A list of human names|
 |`brutethink.txt`|Words used in the [Brutethink technique](https://remembereverything.org/brutethink-creativity-technique/). This list was tuned for the workplace, so some words have been removed|
+|`nouns.txt`|~27,000 English nouns|
+|`verbs.txt`|~5,000 English verbs|
+
 
 ## Some Other Helpful Links
 

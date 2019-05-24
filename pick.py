@@ -25,7 +25,9 @@ table = {
     'brute': 'brutethink.txt',
     'easy': 'easy-names.txt',
     'name': 'names.txt',
-    'star': 'stars'
+    'star': 'stars.txt',
+    'noun': 'nouns.txt',
+    'verb': 'verbs.txt'
 }
 
 
