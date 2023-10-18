@@ -18,7 +18,7 @@ This repo contains lists of names that would be useful when naming a project
 
 ## Some Other Helpful Links
 
-* [Implemented in AWS Lambda](https://fti07z2gki.execute-api.us-east-1.amazonaws.com/v1/words?count=10)
+* [On Importance of Naming in Programming](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
 * [3 random words](http://creativitygames.net/random-word-generator/randomwords/3)
 * https://namingschemes.com/
 * [Placeholder names like: Foo, Acme corporation, John Doe, etc](https://en.wikipedia.org/wiki/Placeholder_name)
