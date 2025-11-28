@@ -39,7 +39,7 @@ def main():
 
     words = [l for l in load(to_absolute(fileName))]
 
-    for i in xrange(0, args.count):
+    for i in range(0, args.count):
         print(random.choice(words))
 
 
